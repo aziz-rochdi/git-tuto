@@ -3,4 +3,8 @@
 hello every body
 ### hello again and again
 **this is a bold text**
-
+- pray
+- train
+- eat 
+- study
+- work hard
